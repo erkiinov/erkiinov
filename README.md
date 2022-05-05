@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hello! I'm Farrukh
+# Hello! I'm Bakhrom
 
 ### Languages and Tools
 
