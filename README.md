@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/bakhrom-erkinov-6031a3224)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farruholimov&show_icons=true&bg_color=50,6666ff,00cc99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&layout=compact&count-private=true" alt="bilgecakar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erkiinov&show_icons=true&bg_color=50,6666ff,00cc99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&layout=compact&count-private=true" alt="bilgecakar" /></p>
 
 <p>&nbsp;
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=farruholimov&show_icons=true&bg_color=50,6666ff,00cc99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&count_private=true&hide=issues" alt="bilgecakar" width="50%" /></p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=erkiinov&show_icons=true&bg_color=50,6666ff,00cc99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&count_private=true&hide=issues" alt="bilgecakar" width="50%" /></p>
