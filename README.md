@@ -38,16 +38,16 @@ Here are some ideas to get you started:
 ### Follow Me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/exevutiveboy)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/farruh-olimov)
-[![Instagram](https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com/farruh-olimov)
-[![Facebook](https://img.shields.io/badge/-Facebook-082032?style=for-the-badge&logo=Facebook&logoColor=#1877F2)](https://www.facebook.com/farruh-olimov)
-[![Twitter](https://img.shields.io/badge/-Twitter-082032?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2)](https://www.twitter.com/farruh-olimov)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/bakhrom-erkinov-6031a3224)
+[![Instagram](https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com/erkinov.baxrom)
+[![Facebook](https://img.shields.io/badge/-Facebook-082032?style=for-the-badge&logo=Facebook&logoColor=#1877F2)](https://www.facebook.com/flashacademyuz)
+[![Twitter](https://img.shields.io/badge/-Twitter-082032?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2)](https://www.twitter.com/)
 
 
 ### Contact With Me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/farrukh_olimov)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/farruh-olimov)
+[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/exevutiveboy)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/bakhrom-erkinov-6031a3224)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farruholimov&show_icons=true&bg_color=50,6666ff,00cc99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&layout=compact&count-private=true" alt="bilgecakar" /></p>
